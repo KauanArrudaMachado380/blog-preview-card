@@ -106,12 +106,12 @@ body{
     align-items: center;
 }
 
-.rodape > a{
+.rodape a{
     text-decoration: none;
     color: var(--cor-quatro);
 }
 
-.rodape > a:hover{
+.rodape a:hover{
     color: var(--cor-dois);
 }
 
